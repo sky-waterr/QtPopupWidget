@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QtPopupWidget">
+        <file>IconError.png</file>
+        <file>IconInfo.png</file>
+        <file>IconWarning.png</file>
+    </qresource>
+</RCC>
